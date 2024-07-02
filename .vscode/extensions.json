@@ -1,0 +1,22 @@
+{
+  "recommendations": [
+    "kokororin.vscode-phpfmt",
+    "felixfbecker.php-debug",
+    "sophisticode.php-formatter",
+    "liximomo.sftp",
+    "rangav.vscode-thunder-client",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "bracketpaircolordlw.bracket-pair-color-dlw",
+    "rifi2k.format-html-in-php",
+    "mhutchie.git-graph",
+    "donjayamanne.githistory",
+    "github.copilot",
+    "eamodio.gitlens",
+    "pkief.material-icon-theme",
+    "zhuangtongfa.material-theme",
+    "xdebug.php-debug",
+    "natizyskunk.sftp",
+    "redhat.vscode-yaml"
+  ]
+}
